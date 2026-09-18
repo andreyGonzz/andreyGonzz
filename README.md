@@ -1,66 +1,59 @@
-
 <div align="center">
-# Hola, soy Andrey 👋
+<h1>Hola, soy Andrey 👋</h1>
  
-#### Estudiante de Ingeniería en Sistemas en Tercer año · Full-Stack Developer en formación
+<h4>Estudiante de Ingeniería en Sistemas en Tercer año · Full-Stack Developer en formación</h4>
  
 ---
  
-## 🧭 Sobre mí
+<h2>🧭 Sobre mí</h2>
  
-🎓 Estudiante de **Ingeniería en Sistemas de Computación** en la [Universidad Fidélitas](https://ufidelitas.ac.cr) (San Pedro, Costa Rica)
+🎓 Estudiante de <b>Ingeniería en Sistemas de Computación</b> en la <a href="https://ufidelitas.ac.cr">Universidad Fidélitas</a> (San Pedro, Costa Rica)
 <br>
 💻 Apasionado por la programación y por encontrar soluciones lógicas a los problemas que surgen durante el desarrollo
 <br>
-🌱 Aprendo constantemente, me gusta explorar herramientas nuevas y aplicarlas en proyectos reales, tanto académicos como personales
+🌱 Siempre aprendiendo — me gusta explorar herramientas nuevas y aplicarlas en proyectos reales, tanto académicos como personales
 <br>
 🎧 Cuando no estoy programando, seguro estoy escuchando música
  
 ---
  
-## 🛠️ Stack tecnológico
+<h2>🛠️ Stack tecnológico</h2>
  
-#### Backend
-![Backend](https://skillicons.dev/icons?i=java,spring,net)
+<h4>Backend</h4>
+<img src="https://skillicons.dev/icons?i=java,spring,net" />
  
-#### Frontend
-![Frontend](https://skillicons.dev/icons?i=react,tailwind,javascript,html,css)
+<h4>Frontend</h4>
+<img src="https://skillicons.dev/icons?i=react,tailwind,javascript,html,css" />
  
-#### Datos & Bases de Datos
-![Datos](https://skillicons.dev/icons?i=mysql,mongodb)
+<h4>Datos & Bases de Datos</h4>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" title="MSSQL" />
 <img width="48" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" title="Oracle" />
  
-#### Herramientas & Otros
-![Herramientas](https://skillicons.dev/icons?i=git,postman,figma,azure,gcp,ubuntu,notion)
+<h4>Herramientas & Otros</h4>
+<img src="https://skillicons.dev/icons?i=git,postman,figma,azure,gcp,ubuntu,notion" />
  
 ---
  
-## 📫 Contacto y portafolio
+<h2>📫 Contacto y portafolio</h2>
  
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/jorge-andrey-gonz%C3%A1lez-ruiz-336561340/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:jorgeandreygonzalez2006@gmail.com)
-[![Portfolio](https://skillicons.dev/icons?i=vercel)](https://tu-portfolio-aqui.dev)
- 
----
- 
-## 📊 Estadísticas de GitHub
- 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=andreyGonzz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andreyGonzz&layout=compact&theme=tokyonight&hide_border=true)
- 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=andreyGonzz&theme=tokyonight&hide_border=true)
- 
-![Trophies](https://github-profile-trophy.vercel.app/?username=andreyGonzz&theme=tokyonight&no-frame=true&row=1&column=7&margin-w=8)
+<a href="https://www.linkedin.com/in/jorge-andrey-gonz%C3%A1lez-ruiz-336561340/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="mailto:jorgeandreygonzalez2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
+<a href="https://tu-portfolio-aqui.dev"><img src="https://skillicons.dev/icons?i=vercel" /></a>
  
 ---
  
-## 🎧 Escuchando ahora
+<h2>📊 Estadísticas de GitHub</h2>
  
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=jen58db49vqi8upj2uz7efh9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0c1d9d&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andreyGonzz&theme=transparent&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+
+---
+ 
+<h2>🎧 Escuchando ahora</h2>
+ 
+<a href="https://github.com/kittinan/spotify-github-profile"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=jen58db49vqi8upj2uz7efh9e&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=0c1d9d&bar_color_cover=true" /></a>
  
 ---
  
-![Visitor Badge](https://komarev.com/ghpvc/?username=andreyGonzz&style=flat-square&color=blueviolet)
- 
+<img src="https://komarev.com/ghpvc/?username=andreyGonzz&style=flat-square&color=blueviolet" alt="visitor badge" />
 </div>
