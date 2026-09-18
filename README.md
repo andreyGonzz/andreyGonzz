@@ -37,7 +37,7 @@
  
 <h2>📫 Contacto y portafolio</h2>
  
-<a href="https://www.linkedin.com/in/jorge-andrey-gonz%C3%A1lez-ruiz-336561340/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://www.linkedin.com/in/andrey-gonzz"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 <a href="mailto:jorgeandreygonzalez2006@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
 <a href="https://tu-portfolio-aqui.dev"><img src="https://skillicons.dev/icons?i=vercel" /></a>
  
